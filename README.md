@@ -40,4 +40,5 @@ To reach the industry target of 15%, the company must:
 - `mrr_chart.png` — generated visualization
 - `README.md` — full data story & analysis
 
-This PR was created using LLM support (Jules / ChatGPT Codex).
+# Verification Line
+This README is part of the PR. (23f1001080@ds.study.iitm.ac.in)
