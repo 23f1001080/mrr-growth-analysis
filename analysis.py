@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# Quarterlyyyyy MRR growthhhhh
+# Quarterlyyyyy MRR grrooooowthhhhh
 quarters = ["Q1", "Q2", "Q3", "Q4"]
 growth = [4.06, 8.76, 10.71, 8.02]
 industry_target = 15
