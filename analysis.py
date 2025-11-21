@@ -1,6 +1,7 @@
+# minor edit to include file in PR
 import matplotlib.pyplot as plt
 
-# Quarterly MRR growth
+# Quarterlyyyyy MRR grrooooowthhhhh
 quarters = ["Q1", "Q2", "Q3", "Q4"]
 growth = [4.06, 8.76, 10.71, 8.02]
 industry_target = 15
